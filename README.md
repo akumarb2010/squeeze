@@ -1,4 +1,4 @@
 squeeze
 =======
 
-Dimension Reduction using PCA
+dimension Reduction using PCA.
